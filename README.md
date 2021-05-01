@@ -1,1 +1,1 @@
-👋 我是Gafish，前端工程师
+👋 I am Gafish，Full Stack Developer

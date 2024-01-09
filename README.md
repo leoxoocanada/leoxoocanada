@@ -6,4 +6,4 @@
 
 前淘宝UED前端，从事编程开发工作多年，前端技术栈从 jQuery / KISSY / PhoneGap，到 Angular / Vue / React / Node.js / Electron / Flutter，一直在学习，从未有超越
 
-擅长 Web 端技术，学习 Flutter 中，有志于成为全干工程师，独立开发者，爱编程，爱折腾，爱赚钱
+擅长 Web 端技术，Flutter 修炼中，全干工程师，一人开发者，爱编程，爱折腾，爱赚钱
